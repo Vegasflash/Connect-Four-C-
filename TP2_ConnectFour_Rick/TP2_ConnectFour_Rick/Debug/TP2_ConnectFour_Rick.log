@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\school\algo\connectfour-ricardo\tp2_connectfour_rick\tp2_connectfour_rick\main.cpp(58): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\algo\connectfour-ricardo\tp2_connectfour_rick\tp2_connectfour_rick\main.cpp(78): warning C4101: 'inputCapital': unreferenced local variable
+  TP2_ConnectFour_Rick.vcxproj -> D:\School\Algo\ConnectFour-Ricardo\TP2_ConnectFour_Rick\Debug\TP2_ConnectFour_Rick.exe
+  TP2_ConnectFour_Rick.vcxproj -> D:\School\Algo\ConnectFour-Ricardo\TP2_ConnectFour_Rick\Debug\TP2_ConnectFour_Rick.pdb (Full PDB)
